@@ -13,7 +13,7 @@ SECRET_KEY = 'o39m9#zl+t6rv4c%sl@oc^^3ivjbgqwd=xtl6b^4(91_3&3c+2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['djangosite.pythonanywhere.com']
 
 
 # Application definition
